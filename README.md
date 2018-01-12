@@ -10,6 +10,8 @@ Download the Mod of your choice and extract it's content into your They are Bill
 
 To remove the mod, just copy your backup file into the Game Folder.
 
+All mods here will be tagged with both Version number and date to help clarify which is most suitable for you.
+
 And again, No reports when using mods.
 
 Thanks for reading <3
